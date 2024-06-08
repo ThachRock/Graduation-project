@@ -1,0 +1,28 @@
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.exe
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\Newtonsoft.Json.dll
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\Newtonsoft.Json.xml
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.AssemblyReference.cache
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.GenerateResource.cache
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.CopyComplete
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.exe
+C:\Users\nghia\Desktop\Robot GUI official\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.exe.config
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.exe
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\ROBOT_CONTROL_GUI_01.pdb
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\Newtonsoft.Json.dll
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\bin\Release\Newtonsoft.Json.xml
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.AssemblyReference.cache
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.Form1.resources
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.Properties.Resources.resources
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.GenerateResource.cache
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\Robot control interface.csproj.CopyComplete
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.exe
+C:\Users\nghia\Desktop\Project graduate\Robot_GUI\new_LOG IN\ROBOT_CONTROL_GUI_01\obj\Release\ROBOT_CONTROL_GUI_01.pdb
